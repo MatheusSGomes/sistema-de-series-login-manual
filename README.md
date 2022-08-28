@@ -6,3 +6,9 @@ Sistema gestor de séries que permite guardar séries favoritas, adicionar, edit
 ![](Screenshot-2.png)
 
 ![](Screenshot-3.png)
+
+![](Screenshot-4.png)
+
+![](Screenshot-5.png)
+
+![](Screenshot-6.png)
